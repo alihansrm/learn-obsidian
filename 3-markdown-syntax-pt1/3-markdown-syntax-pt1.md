@@ -142,4 +142,4 @@ We use `markdown` for Markdown examples and `text` for plain text without syntax
 > [!abstract] 🧭 Navigation
 > **← Previous:** Currently Null
 >
-> **Next →:** [[3e-markdown-syntax-exercise|Markdown Syntax Exercise]]
+> **Next →:** [[3e-markdown-syntax-exercise|Markdown Syntax: Part 1 - Exercise]]

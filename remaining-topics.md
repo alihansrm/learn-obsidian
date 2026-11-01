@@ -1,11 +1,11 @@
 
-1. **Task Lists:** Yapılacaklar ve tamamlanan işler: `- [ ]`, `- [x]`.
-2. **Links:** Web adreslerine ve diğer notlara bağlantı verme.
-3. **Images:** Nota görsel ekleme.
-4. **Blockquotes:** Alıntı blokları oluşturma.
-5. **Callouts:** İpucu, uyarı ve açıklama kutuları oluşturma (Obsidian'a özgü).
+- [x] **Task Lists:** Yapılacaklar ve tamamlanan işler: `- [ ]`, `- [x]`.
+- [x] **Links:** Web adreslerine ve diğer notlara bağlantı verme.
+- [x] **Images:** Nota görsel ekleme.
+- [x] **Blockquotes:** Alıntı blokları oluşturma.
+- [x] **Callouts:** İpucu, uyarı ve açıklama kutuları oluşturma (Obsidian'a özgü).
+- [x] **Horizontal Rules:** Bölümleri ayıran yatay çizgiler.
+- [x] **Tables:** Satır ve sütunlarla bilgi düzenleme.
+- [x] **Escaping Characters:** `*` gibi özel karakterleri biçimlendirme yapmadan yazma.
+- [x] **Comments:** `%%yorum%%` ile okuma görünümünde gizlenen yorumlar ekleme (Obsidian'a özgü).
 
-6. **Horizontal Rules:** Bölümleri ayıran yatay çizgiler.
-7. **Tables:** Satır ve sütunlarla bilgi düzenleme.
-8. **Escaping Characters:** `*` gibi özel karakterleri biçimlendirme yapmadan yazma.
-9. **Comments:** `%%yorum%%` ile okuma görünümünde gizlenen yorumlar ekleme (Obsidian'a özgü).

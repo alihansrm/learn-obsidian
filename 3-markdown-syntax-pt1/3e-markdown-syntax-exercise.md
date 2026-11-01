@@ -53,4 +53,4 @@ Report each category's score and briefly explain any deductions. For each mistak
 > [!abstract] 🧭 Navigation
 > **← Previous:** [[3-markdown-syntax-pt1|Markdown Syntax: Part 1]]
 >
-> **Next →:** Currently Null
+> **Next →:** [[4-markdown-syntax-pt2|Markdown Syntax: Part 2]]
